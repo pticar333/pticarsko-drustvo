@@ -1,1 +1,7 @@
-# pticarsko-drustvo
+# Pticarsko Drustvo
+
+# Description
+
+# Goals
+
+# Git flow
