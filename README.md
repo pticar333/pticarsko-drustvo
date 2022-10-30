@@ -1,7 +1,8 @@
 # Pticarsko Drustvo
 
-# Description
+### Description
+- Pticarsko drustvo is all about taking off.
 
-# Goals
+### Goals
 
-# Git flow
+### Git flow
